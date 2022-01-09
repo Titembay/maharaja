@@ -1,0 +1,72 @@
+
+a:hover,
+.navbar-nav .active>.nav-link, 
+.navbar-nav .nav-link.active, 
+.navbar-nav .nav-link.open, 
+.navbar-nav .open>.nav-link, 
+.navbar-nav .nav-link:focus, 
+.navbar-nav .nav-link:hover,
+.section-title h1, .section-title span:after,
+.btn.btn-primary:hover ,
+.footer-widget li a, 
+.footer-widget li .star, 
+.footer-widget button:hover,
+.footer-bottom a:hover,
+.weekly-closed,
+.gb-banner.banner-one .banner-info h1,
+.gb-gallery.gallery-one .overlay-content i,
+.comment-box .comment-meta a:hover,
+.widget_search .btn:hover,
+.gb-banner.banner-one .btn-primary.button-reserve:hover,
+.food-menu-one .gb-overlay .price,
+.section-title span, .menu-details .menu-title span, 
+.gb-about-us .about-info span, .breadcrumb li a:hover,
+.portfolio-menu ul li:hover, .portfolio-menu ul li.cbp-filter-item-active{
+	color: #f26522;
+}
+
+
+.section-before .btn.btn-primary:before, 
+.section-before .btn.btn-primary:after,
+.section-title span:before,
+.slick-dots li button:hover:before, 
+.slick-dots li button:hover:before, 
+.slick-dots li.slick-active button:before,
+.menu-title span, .btn.btn-primary,
+.post-time span, .about-info h3:after,
+.gb-banner.banner-one .btn-primary.button-reserve,
+.page-numbers:focus, .page-numbers:hover, .page-item.active .page-numbers,
+.tagcloud a:hover, .section-title span:after, 
+.carousel-control-prev:hover, .carousel-control-next:hover,
+.details-slider .slick-dots li button:hover:before, 
+.details-slider .slick-dots li button:hover:before,
+.menu-details .menu-title:after, .gb-about-us .about-title:after,
+.service-info h1:after {
+    background-color: #f26522;
+}
+
+.gb-about .about span,
+.gb-about .about:hover .icofont, 
+.gb-about .about:hover span:before,
+.form-control:focus, .btn.btn-primary,
+.slick-dots li button:hover:before, 
+.slick-dots li button:hover:before, 
+.slick-dots li.slick-active button:before,
+.gb-banner.banner-one .btn-primary.button-reserve,
+.tagcloud a:hover, .details-slider .slick-dots li button:hover:before, 
+.details-slider .slick-dots li button:hover:before,
+.details-slider .slick-dots li button:before, .details-slider .slick-dots li button:before,
+.menu-details ul li:before {
+    border-color: #f26522;
+}
+
+blockquote {
+	border-left-color: #f26522;
+}
+
+.overlay-content,
+.testimonial-content,
+.food-menu-one .gb-overlay,
+.gb-gallery.gallery-one .gb-overlay {
+    background-color: rgba(242, 101, 34, 0.9);
+}
